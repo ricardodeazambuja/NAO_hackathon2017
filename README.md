@@ -2,6 +2,7 @@
 
 
 Project M.A.R.T.A
+
 Multi-purpose Anthropomorphic Robot for Telepresence Assistance
 
 ![alt text][logo]
