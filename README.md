@@ -9,7 +9,7 @@ Multi-purpose Anthropomorphic Robot for Telepresence Assistance
 
 
 
-NAO Foreign Language Learning Tutor playing "I Spy" game using [Microsoft Cognitive Services APIs][MCS]
+NAO Foreign Language Learning Tutor by playing "I Spy" guessing game using [Microsoft Cognitive Services APIs][MCS]
 
 
 
