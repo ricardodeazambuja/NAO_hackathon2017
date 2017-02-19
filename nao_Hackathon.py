@@ -48,7 +48,7 @@ def main(session):
     time.sleep(2.0)
 
     #WRONG Answer animation
-    #asr_service.say("Wrong! ^start(animations/Stand/Gestures/No_3) You are embarrassingly bad at this game")
+    asr_service.say("Wrong! ^start(animations/Stand/Gestures/No_3) You are embarrassingly bad at this game")
 
     time.sleep(2.0)
 
