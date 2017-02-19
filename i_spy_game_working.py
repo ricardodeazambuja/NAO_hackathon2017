@@ -6,7 +6,11 @@
 # https://github.com/mpatacchiola/pyERA/blob/master/examples/ex_nao_head_imitation/ex_nao_head_imitation.py
 #
 
+# Daniel Hernandez Garcia
+# Frederico Belmonte Klein
+
 # http://doc.aldebaran.com/1-14/naoqi/index.html
+# http://doc.aldebaran.com/2-4/naoqi/index.html
 
 import numpy
 import matplotlib.pyplot as plt
@@ -159,7 +163,7 @@ def foo(NAO_IP = "192.168.1.100", NAO_PORT = 9559):
 
         def wrong_ans(t):
             #WRONG Answer animation
-            asr_service.say("Wrong! ^start(animations/Stand/Gestures/No_3) You are embarrassingly bad at this game")
+            asr_service.say("Wrong! ^start(animations/Stand/Gestures/No_3) You are embarrassingly poor at this game")
             time.sleep(t)
 
         def right_ans(t):
@@ -286,7 +290,7 @@ def foo(NAO_IP = "192.168.1.100", NAO_PORT = 9559):
                     right_ans(0.01)
                     tts.say("Well done! The word was "+vocabulary[-1])
                 else:
-                    wrong_ans(0.01)                    
+                    wrong_ans(0.01)
                     tts.say("Sorry, it was "+str(NN_list[r_idx]))
 
     except Exception, e:
