@@ -29,7 +29,7 @@ M.A.R.T.A will be the solution!
 
 [Marta Romeo](http://www.google.it/#q=%22marta+romeo%22):
 - Spiritual support.
-- Team name!
+- Team's name!
 
 [Mina Marmpena](https://www.researchgate.net/profile/Mina_Marmpena):
 - Spiritual support.
