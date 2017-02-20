@@ -1,9 +1,6 @@
-# NAO_Hackathon
+# Project M.A.R.T.A
 
-
-Project M.A.R.T.A
-
-Multi-purpose Anthropomorphic Robot for Telepresence Assistance
+## Multi-purpose Anthropomorphic Robot for Telepresence Assistance
 
 ![alt text][logo]
 
