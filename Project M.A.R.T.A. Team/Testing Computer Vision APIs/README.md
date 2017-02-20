@@ -1,7 +1,6 @@
 # Testing Computer Vision APIs
 
-
-Here I saved a test using four different APIs:
+Here [I](https://github.com/ricardodeazambuja) saved a test using four different APIs:
 ![Original Image](OriginalImage.png)  
 
 ## [IBMWatson](https://visual-recognition-demo.mybluemix.net/)
