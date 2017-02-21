@@ -1,6 +1,6 @@
 # Project M.A.R.T.A
 
-## Multi-purpose Anthropomorphic Robot for Telepresence Assistance
+## Multi-purpose Anthropomorphic Robot for Timely Assistance
 
 ![alt text][logo]
 
@@ -19,25 +19,27 @@ M.A.R.T.A will be the solution!
 [Daniel Hernandez Garcia](https://github.com/dhgarcia):
 - Nao movements and dialogues (creation and interfacing).
 - Gameplay
+- Random jokes.
 
 [Frederico Belmonte Klein](https://github.com/frederico-klein):
 - "I Spy" game initial idea.
 - Gameplay.
 - Wikipedia engine and external speech recognition (not integrated... it was a Hackathon, only 48hs!)
 
-[John Doe](https://en.wikipedia.org/wiki/John_Doe):
-- Random jokes.
+[comment]: # [John Doe](https://en.wikipedia.org/wiki/John_Doe):
+[comment]: # - Random jokes.
 
 [Massimiliano Patacchiola](http://mpatacchiola.github.io/):
 - Nao video streaming interface.
 - M.A.R.T.A. logo.
 
 [Marta Romeo](http://www.google.it/#q=%22marta+romeo%22):
-- Spiritual support.
+- The original MARTA.
 - Team's name!
+- Project inspiration
 
 [Mina Marmpena](https://www.researchgate.net/profile/Mina_Marmpena):
-- Spiritual support.
+- Team Motivation and Coordination.
 
 [Ricardo de Azambuja](http://ricardodeazambuja.com):
 - Nao speech recognition interfacing.
