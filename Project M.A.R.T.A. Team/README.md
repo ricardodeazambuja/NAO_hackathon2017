@@ -26,8 +26,8 @@ M.A.R.T.A will be the solution!
 - Gameplay.
 - Wikipedia engine and external speech recognition (not integrated... it was a Hackathon, only 48hs!)
 
-[comment]: # [John Doe](https://en.wikipedia.org/wiki/John_Doe):
-[comment]: # - Random jokes.
+[comment]: # ([John Doe](https://en.wikipedia.org/wiki/John_Doe):)
+[comment]: # (- Random jokes.)
 
 [Massimiliano Patacchiola](http://mpatacchiola.github.io/):
 - Nao video streaming interface.
