@@ -12,7 +12,7 @@ M.A.R.T.A will be the solution!
 ![Example - robot](media/trial_robot.png)
 ![Example - computer screen](media/trial_screen.png)
 
-[Video recorded during the hackathon presentation](https://www.youtube.com/watch?v=_cYu16jrw-w
+[Video recorded during the hackathon presentation](https://www.youtube.com/watch?v=_cYu16jrw-w)
 
 ## Authors:
 
