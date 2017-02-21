@@ -4,7 +4,7 @@
 
 ![alt text][logo]
 
-NAO Foreign Language Learning Tutor by playing "I Spy" guessing game using [Microsoft Cognitive Services APIs][MCS]
+[NAO](https://www.ald.softbankrobotics.com/en/cool-robots/nao) Foreign Language Learning Tutor by playing "I Spy" guessing game using [Microsoft Cognitive Services APIs][MCS]
 
 M.A.R.T.A will be the solution!
 
