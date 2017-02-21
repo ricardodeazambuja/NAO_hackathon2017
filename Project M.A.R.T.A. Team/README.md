@@ -8,6 +8,11 @@ NAO Foreign Language Learning Tutor by playing "I Spy" guessing game using [Micr
 
 M.A.R.T.A will be the solution!
 
+![Robot and Keyring](media/ProjectMARTA.png)
+![Example - robot](media/trial_robot.png)
+![Example - computer screen](media/trial_screen.png)
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/_cYu16jrw-w" frameborder="0" allowfullscreen></iframe>
 
 ## Authors:
 
@@ -47,6 +52,6 @@ M.A.R.T.A will be the solution!
 - We assume NO responsibility for shortening the amount of time until [singularity](https://en.wikipedia.org/wiki/Technological_singularity).
 - No Naos were harmed in the making of this game.
 
-[logo]: marta_logo.png
+[logo]: media/marta_logo.png
 
 [MCS]: https://www.microsoft.com/cognitive-services/en-us/
